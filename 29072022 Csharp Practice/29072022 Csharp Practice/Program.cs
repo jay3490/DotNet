@@ -228,12 +228,19 @@
 //    }
 //}
 
-class method
+//class method
+//{
+//    public static void Main()
+//    {
+//        int myInt = 9;
+//        float a = myInt;
+//        Console.WriteLine(Convert.ToDecimal(a));   
+//    }
+//}
+
+public static void Main()
+
 {
-    public static void Main()
-    {
-        int myInt = 9;
-        float a = myInt;
-        Console.WriteLine(Convert.ToDecimal(a));   
-    }
+    int i = 3;
+
 }
